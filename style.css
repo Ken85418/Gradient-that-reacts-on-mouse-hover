@@ -196,7 +196,7 @@ header{background: transparent; padding: 0 25px; position: absolute; top: 0; lef
 	.bnr_dots1{position: absolute; bottom: 30px; left: 0;}
 	.bnr_dots2{position: absolute; top: 0; right: 0;}
 
-	.bnr_info{width: 582px; max-width: 55%; min-height: 587px; background: radial-gradient(circle at center, var(--terColor), var(--priColor), var(--terColor)); background-size: 200% 200%; position: absolute; top: 224px; left: 0; z-index: 150; color: #fff; text-align: center; padding: 133px 60px 100px;}
+	.bnr_info{width: 582px; max-width: 55%; min-height: 587px; background: radial-gradient(circle at 112% 36%, var(--terColor), var(--priColor), var(--terColor)); background-size: 200% 200%; position: absolute; top: 224px; left: 0; z-index: 150; color: #fff; text-align: center; padding: 133px 60px 100px;}
 	.bnr_info h2{color: inherit;}
 	.bnr_info h2 span{display: block; margin-top: 10px;}
 	.bnr_info h2 small{}
@@ -301,7 +301,7 @@ header{background: transparent; padding: 0 25px; position: absolute; top: 0; lef
 #bottom3{background: #fff; padding: 0 25px;}
  	.btm3_con{min-height: 0; padding: 0;}
 
-	.btm3_form{width: 100%; min-height: 567px; background: var(--linearBg1); color: #fff; padding: 117px 93px 80px; text-align: center; position: absolute; top: -293px; left: 0; right: 0; z-index: 10; background: radial-gradient(circle at center, var(--terColor), var(--priColor), var(--terColor)); background-size: 200% 200%;}
+	.btm3_form{width: 100%; min-height: 567px; background: var(--linearBg1); color: #fff; padding: 117px 93px 80px; text-align: center; position: absolute; top: -293px; left: 0; right: 0; z-index: 10; background: radial-gradient(circle at 112% 75%, var(--terColor), var(--priColor), var(--terColor)); background-size: 200% 200%;}
 	.btm3_form_info{}
 	.btm3_form_info h2{color: inherit;}
 	.btm3_form_info h2 small{margin-bottom: 12px;}
