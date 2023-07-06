@@ -234,7 +234,7 @@ header{background: transparent; padding: 0 25px; position: absolute; top: 0; lef
 		main p{margin: 32px auto 0;max-width: 1123px;}
 		main p span{display: block; margin-top: 20px;}
 
-		.main_img{position: absolute; top: 67px; left: 50%; transform: translateX(-50%); z-index: 20; max-width: 95%; overflow: hidden;}
+		.main_img{position: absolute; top: 67px; left: 50%; transform: translateX(-50%); z-index: 20; max-width: 95%; overflow: hidden; pointer-events: none;}
 		.main_img img{max-width: initial; margin-left: 50%; transform: translateX(-50%);}
 
 		.main_dots{width: 1920px; max-width: 100vw; display: flex; justify-content: space-between; align-items: flex-start; position: absolute; bottom: 159px; left: 50%; transform: translateX(-50%);}
